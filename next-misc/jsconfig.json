@@ -1,0 +1,9 @@
+{
+    // For import Absolute Path
+    "compilerOptions": {
+        "baseUrl": ".",
+        /* "paths": {
+            "@/layout/*":["components/layout"]
+        } */
+    }
+}
